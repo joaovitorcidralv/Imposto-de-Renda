@@ -1,6 +1,8 @@
 # CalculadoraIRPF
 Um programa em python que pergunta informações de salário e renda para calcular o imposto de renda
 
+
+
 O código solicita o número de dependentes e o salário bruto ao usuário no início do código e atribui as varáveis de dados "NumDepend" e "SalarioBruto";
 
 Uma função é chamada para determinar a faixa da aliquota do INSS com base no salário informado, uma estrutura switch verifica qual valor o resultado lógico é True;
