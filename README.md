@@ -14,3 +14,6 @@ Uma segunda função é chamada para determinar a alíquota do Imposto de Renda 
 O valor do Imposto de Renda é calculado multiplicando-se a diferença entre a BaseCalculoIRPF e a faixa anterior pela alíquota do IRPF;
 
 Para determinar o valor mensal do Imposto de Renda, por último,divide-se o valor total do imposto por 12;
+
+
+![imposto de renda](https://github.com/joaovitorcidralv/Imposto-de-Renda/assets/119749953/fbb179cf-bbc9-4917-bf3f-af30a979bc09)
